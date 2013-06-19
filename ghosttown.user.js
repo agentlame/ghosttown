@@ -4,6 +4,7 @@
 // @description  /r/atheism - highlight everyone that voted reject.
 // @include     http://www.reddit.com/r/atheism/comments/*
 // @include     http://www.reddit.com/r/atheismpolicy/comments/*
+// @downloadURL https://github.com/agentlame/ghosttown/raw/master/ghosttown.user.js
 // @version    0.1
 // ==/UserScript==
 
